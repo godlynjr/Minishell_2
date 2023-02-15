@@ -14,7 +14,7 @@ Je rappel également que ce code n'a pas été corrigé suite à sa création, l
 | Simple Redirections | 50% | 1/2 | x |
 | Advanced Pipe | 14.3% | 1/7 | v |
 | Advanced Redirections | 100% |1/1 | x |
-| Advanced Manipulations | 100% | 0/4 | v |
+| Advanced Manipulations | 0% | 0/4 | v |
 
 End score	60%
 
